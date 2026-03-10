@@ -3,6 +3,7 @@
 ## Dataset
 
 Notre dataset contient 15000 observations et 13 variables : 
+- Cient_id
 - Sexe
 - Âge
 - Revenu_mensuel
