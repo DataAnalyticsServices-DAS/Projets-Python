@@ -1,5 +1,22 @@
 # 🚀 Analyse du Comportement Client en E-commerce.
 
+## Dataset
+
+Notre dataset contient 15000 observations et 13 variables : 
+- Sexe
+- Âge
+- Revenu_mensuel
+- Segment_age
+- Revenu_cat
+- Produit
+- Canal_achat
+- Montant_panier
+- Panier_frequent
+- Note_satisfaction
+- Retour_produit
+- Date_achat
+
+
 ## 🎯 Objectif
 Comprendre les facteurs qui influencent :
 - 💰 le montant du panier
