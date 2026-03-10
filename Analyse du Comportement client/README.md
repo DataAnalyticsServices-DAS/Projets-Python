@@ -18,4 +18,4 @@ Comprendre les facteurs qui influencent :
 - 2. Quels canaux performent le mieux ?
 - 3. Qu'est-ce qui est lié aux retours produits ?
 - 4. Quel profils clients ont le plus de valeur ?
-- 5. Peut on prédireles retours ?
+- 5. Peut on prédire les retours ?
