@@ -2,9 +2,9 @@
 
 ## 🎯 Objectif
 Comprendre les facteurs qui influencent :
-- Le montant du panier
-- La satisfaction client
-- Les retours produits
+- 💰 le montant du panier
+- ⭐ la satisfaction client
+- 📦 les retours produits
 
 ## 🛠 Outils utilisés
 
