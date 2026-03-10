@@ -1,4 +1,4 @@
-# 🚀 Analyse du Comportement Client d'un site E-commerce.
+# 🚀 Analyse du Comportement Client en E-commerce.
 
 ## 🎯 Objectif
 Comprendre les facteurs qui influencent :
