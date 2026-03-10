@@ -1,14 +1,13 @@
-## Analyse du Comportement Client d'un site E-commerce.
+## 🚀 Analyse du Comportement Client d'un site E-commerce.
 
-## Objectif
+## 🎯 Objectif
 Comprendre les facteurs qui influencent :
 - Le montant du panier
 - La satisfaction client
 - Les retours produits
 
-## Outils utilisés
+## 🛠 Outils utilisés
 
-- Python
-- Pandas
-- Seaborn
-- Scikit-learn
+- 🐍 Python
+- 📊 Pandas
+- 🤖 Machine Learning
