@@ -27,10 +27,12 @@ Comprendre les facteurs qui influencent :
 ## 🛠 Outils utilisés
 
 - 🐍 Python
-- 📊 Pandas
-- 🤖 Machine Learning
+- 🐼 Pandas
+- 📈 Seaborn
+- 🔢 Numpy
+- 🤖 Scikit-learn
 
-## Travail à faire
+## Besoins métier
 Le directeur marketing voudrait savoir : 
 
 - 1. Quels produits génèrent le plus de valeur ?
@@ -38,3 +40,6 @@ Le directeur marketing voudrait savoir :
 - 3. Qu'est-ce qui est lié aux retours produits ?
 - 4. Quel profils clients ont le plus de valeur ?
 - 5. Peut on prédire les retours ?
+
+
+
