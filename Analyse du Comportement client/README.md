@@ -31,6 +31,7 @@ Comprendre les facteurs qui influencent :
 - 🤖 Machine Learning
 
 ## Travail à faire
+Le directeur marketing voudrait savoir : 
 
 - 1. Quels produits génèrent le plus de valeur ?
 - 2. Quels canaux performent le mieux ?
